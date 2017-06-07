@@ -1,1 +1,1 @@
-# golang-test
+# golang specifications test
